@@ -12,3 +12,6 @@
 
 	      Please make sure you have the correct access rights
 	      and the repository exists.
+ - 将IP永久的添加到hosts文件(ip对应域名) ====> 52.74.223.119 github.com
+    - 遇见错误：
+      1. Warning: Permanently added the RSA host key for IP address '52.74.223.119' to the list of known hosts.
